@@ -68,6 +68,6 @@ Simply open [Lovable](https://lovable.dev/projects/609d9d68-0980-41bd-92fe-af433
 
 Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
